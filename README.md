@@ -1,8 +1,8 @@
 # Micro-State-Management-RH
 리액트 훅을 활용한 마이크로 상태 관리 (Micro State Management with React Hooks) 
 
+<img src='https://github.com/MD-Book-Study/Micro-State-Management-RH/assets/36908476/7badb053-6a56-4e5d-85c5-8e139b47bf42' width='400' />
 
-![rh](https://github.com/MD-Book-Study/Micro-State-Management-RH/assets/36908476/7badb053-6a56-4e5d-85c5-8e139b47bf42)
 📚 스터디 자료: 리액트 훅을 활용한 마이크로 상태 관리 
 
 --- 

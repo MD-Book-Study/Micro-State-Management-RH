@@ -31,4 +31,6 @@
 
 ### 🏃‍♂️ 스터디원
 
-남준영, 배준형 
+<img src='https://github.com/MD-Book-Study/Micro-State-Management-RH/assets/36908476/caf1d1a4-a762-4a3a-b6c0-9a2dc88fbd65' width='100' /> |  <img src='https://github.com/MD-Book-Study/Micro-State-Management-RH/assets/36908476/7731f75c-7a94-444c-b5d2-e51f4c425618' width='100' />
+--- | ---
+남준영 | 배준형 
